@@ -1,4 +1,99 @@
+table
+{
+
+}
+td{
+        border: 1px solid black;
+        padding: 2px 2px 2px 2px;
+    
+    }
 body
 {
-    color:blue;
+    
+background-color:antiquewhite;
+background-image: url("../imgs/two.png");
+background-position: center top;        
+}
+#nav 
+{
+ 
+    background-color: floralwhite;
+    font-family: sans-serif;
+     
+}
+  
+    th{
+       text-transform: uppercase;
+     border-bottom: 2px solid #111111;
+    }  
+
+tr.top
+{
+    background-color: floralwhite
+}  
+
+#egg
+{
+    background-color: #80b3ff
+}
+
+
+#oatmeal
+{
+    background-color: #80b3ff
+}
+
+#tomato
+{
+background-color: #0073e6  
+       
+    
+}
+#styrofoam
+{
+background-color: #0073e6 
+    
+}
+
+#donut{
+background-color: #80b3ff
+
+}
+
+#grits
+{
+background-color: #0073e6
+    
+}
+
+#ice cream {
+background-color:
+}
+
+#bacon
+{
+background-color: #0073e6
+}
+#pancakes
+{
+background-color: #0073e6    
+}
+
+#OJ{
+    
+    background-color: #80b3ff
+        
+    
+}
+
+#CapOs {
+    background-color: #80b3ff
+}
+
+
+
+
+a:hover {
+    
+    background-color:blue
 }

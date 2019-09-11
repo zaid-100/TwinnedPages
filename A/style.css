@@ -1,4 +1,30 @@
-body
-{
-    color:green;
+body{
+    
+background-color:antiquewhite;
+    table{    
+    td{
+        border: top 1px black;
+        padding: 50px 50px 50px;
+    }
+    
+    }
+    
+             
+        
+}
+#nav {
+    background-color: white;
+    font-family: sans-serif;
+
+background-image: url("../imgs/scrambled1.jpg");
+    
+}
+    
+
+    th{
+       text-transform: uppercase;
+     border-bottom: 2px solid #111111;
+    }
+    
+    
 }

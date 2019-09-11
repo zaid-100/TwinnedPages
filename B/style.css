@@ -1,11 +1,11 @@
-table
+th
 {
-
+background-color: skyblue
 }
 td{
         border: 1px solid black;
         padding: 2px 2px 2px 2px;
-    
+    background-color: syblue
     }
 body
 {
@@ -17,7 +17,7 @@ background-position: center top;
 #nav 
 {
  
-    background-color: floralwhite;
+    background-color: azure;
     font-family: sans-serif;
      
 }
@@ -66,9 +66,10 @@ background-color: #0073e6
     
 }
 
-#ice cream {
-background-color:
+tr:nth-child(4) {
+    background: #80b3ff
 }
+
 
 #bacon
 {
@@ -95,5 +96,9 @@ background-color: #0073e6
 
 a:hover {
     
-    background-color:blue
+    background-color:skyblue
+}
+#three
+{
+ background-image: url("../imgs/three.png")
 }

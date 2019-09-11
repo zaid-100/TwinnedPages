@@ -1,6 +1,7 @@
-table
+tr
+th
 {
-
+background-color: pink
 }
 td{
         border: 1px solid black;
@@ -17,7 +18,7 @@ background-position: center top;
 #nav 
 {
  
-    background-color: floralwhite;
+    background-color: lemonchiffon;
     font-family: sans-serif;
      
 }
@@ -29,7 +30,7 @@ background-position: center top;
 
 tr.top
 {
-    background-color: floralwhite
+    background-color: #ff3333
 }  
 
 #egg
@@ -65,9 +66,8 @@ background-color: #bb1133
     
 }
 
-#ice cream {
-background-color: #f7bac6
-    
+tr:nth-child(4) {
+    background: #f7bac6
 }
 
 #bacon
@@ -93,11 +93,11 @@ background-color: #bb1133
 
 a:hover {
     
-    background-color:orchid
+    background-color:pink
 }
 
 a {
-    cursor: progress
+    cursor: pointer
         
 }
 
